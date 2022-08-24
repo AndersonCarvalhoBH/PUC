@@ -1,0 +1,15 @@
+G:\Meu Drive\ANDERSON - PESSOAL\PUC\PUC\PAR OU IMPAR\bin\Debug\net6.0\PAR OU IMPAR.exe
+G:\Meu Drive\ANDERSON - PESSOAL\PUC\PUC\PAR OU IMPAR\bin\Debug\net6.0\PAR OU IMPAR.deps.json
+G:\Meu Drive\ANDERSON - PESSOAL\PUC\PUC\PAR OU IMPAR\bin\Debug\net6.0\PAR OU IMPAR.runtimeconfig.json
+G:\Meu Drive\ANDERSON - PESSOAL\PUC\PUC\PAR OU IMPAR\bin\Debug\net6.0\PAR OU IMPAR.dll
+G:\Meu Drive\ANDERSON - PESSOAL\PUC\PUC\PAR OU IMPAR\bin\Debug\net6.0\PAR OU IMPAR.pdb
+G:\Meu Drive\ANDERSON - PESSOAL\PUC\PUC\PAR OU IMPAR\obj\Debug\net6.0\PAR OU IMPAR.csproj.AssemblyReference.cache
+G:\Meu Drive\ANDERSON - PESSOAL\PUC\PUC\PAR OU IMPAR\obj\Debug\net6.0\PAR OU IMPAR.GeneratedMSBuildEditorConfig.editorconfig
+G:\Meu Drive\ANDERSON - PESSOAL\PUC\PUC\PAR OU IMPAR\obj\Debug\net6.0\PAR OU IMPAR.AssemblyInfoInputs.cache
+G:\Meu Drive\ANDERSON - PESSOAL\PUC\PUC\PAR OU IMPAR\obj\Debug\net6.0\PAR OU IMPAR.AssemblyInfo.cs
+G:\Meu Drive\ANDERSON - PESSOAL\PUC\PUC\PAR OU IMPAR\obj\Debug\net6.0\PAR OU IMPAR.csproj.CoreCompileInputs.cache
+G:\Meu Drive\ANDERSON - PESSOAL\PUC\PUC\PAR OU IMPAR\obj\Debug\net6.0\PAR OU IMPAR.dll
+G:\Meu Drive\ANDERSON - PESSOAL\PUC\PUC\PAR OU IMPAR\obj\Debug\net6.0\refint\PAR OU IMPAR.dll
+G:\Meu Drive\ANDERSON - PESSOAL\PUC\PUC\PAR OU IMPAR\obj\Debug\net6.0\PAR OU IMPAR.pdb
+G:\Meu Drive\ANDERSON - PESSOAL\PUC\PUC\PAR OU IMPAR\obj\Debug\net6.0\PAR OU IMPAR.genruntimeconfig.cache
+G:\Meu Drive\ANDERSON - PESSOAL\PUC\PUC\PAR OU IMPAR\obj\Debug\net6.0\ref\PAR OU IMPAR.dll
