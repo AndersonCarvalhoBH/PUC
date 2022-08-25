@@ -1,0 +1,15 @@
+G:\Meu Drive\ANDERSON - PESSOAL\PUC\PUC\Contar Maiusculas\bin\Debug\net6.0\Contar Maiusculas.exe
+G:\Meu Drive\ANDERSON - PESSOAL\PUC\PUC\Contar Maiusculas\bin\Debug\net6.0\Contar Maiusculas.deps.json
+G:\Meu Drive\ANDERSON - PESSOAL\PUC\PUC\Contar Maiusculas\bin\Debug\net6.0\Contar Maiusculas.runtimeconfig.json
+G:\Meu Drive\ANDERSON - PESSOAL\PUC\PUC\Contar Maiusculas\bin\Debug\net6.0\Contar Maiusculas.dll
+G:\Meu Drive\ANDERSON - PESSOAL\PUC\PUC\Contar Maiusculas\bin\Debug\net6.0\Contar Maiusculas.pdb
+G:\Meu Drive\ANDERSON - PESSOAL\PUC\PUC\Contar Maiusculas\obj\Debug\net6.0\Contar Maiusculas.csproj.AssemblyReference.cache
+G:\Meu Drive\ANDERSON - PESSOAL\PUC\PUC\Contar Maiusculas\obj\Debug\net6.0\Contar Maiusculas.GeneratedMSBuildEditorConfig.editorconfig
+G:\Meu Drive\ANDERSON - PESSOAL\PUC\PUC\Contar Maiusculas\obj\Debug\net6.0\Contar Maiusculas.AssemblyInfoInputs.cache
+G:\Meu Drive\ANDERSON - PESSOAL\PUC\PUC\Contar Maiusculas\obj\Debug\net6.0\Contar Maiusculas.AssemblyInfo.cs
+G:\Meu Drive\ANDERSON - PESSOAL\PUC\PUC\Contar Maiusculas\obj\Debug\net6.0\Contar Maiusculas.csproj.CoreCompileInputs.cache
+G:\Meu Drive\ANDERSON - PESSOAL\PUC\PUC\Contar Maiusculas\obj\Debug\net6.0\Contar Maiusculas.dll
+G:\Meu Drive\ANDERSON - PESSOAL\PUC\PUC\Contar Maiusculas\obj\Debug\net6.0\refint\Contar Maiusculas.dll
+G:\Meu Drive\ANDERSON - PESSOAL\PUC\PUC\Contar Maiusculas\obj\Debug\net6.0\Contar Maiusculas.pdb
+G:\Meu Drive\ANDERSON - PESSOAL\PUC\PUC\Contar Maiusculas\obj\Debug\net6.0\Contar Maiusculas.genruntimeconfig.cache
+G:\Meu Drive\ANDERSON - PESSOAL\PUC\PUC\Contar Maiusculas\obj\Debug\net6.0\ref\Contar Maiusculas.dll
